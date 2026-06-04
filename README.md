@@ -20,6 +20,7 @@ El sistema simula una línea industrial automatizada donde se realiza:
 
 ## Simulación en Factory I/O
 
+images/01_Inicio.png
 ## Programación en TIA Portal
 
 ## 🎥 Video demostrativo
