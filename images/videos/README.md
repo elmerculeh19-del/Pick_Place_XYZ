@@ -1,1 +1,0 @@
-Videos demostrativos del proyecto.
