@@ -23,6 +23,7 @@ El sistema simula una línea industrial automatizada donde se realiza:
 ![FactoryIO](images/01_Inicio.png)
 ## Programación en TIA Portal
 
+![TIAPortal](images/02_TIA Portal.png)
 ## 🎥 Video demostrativo
 https://www.youtube.com/watch?v=HeecjVIeOUk
 
